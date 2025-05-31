@@ -1,0 +1,15 @@
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\bin\Debug\net9.0\Player1.exe
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\bin\Debug\net9.0\Player1.deps.json
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\bin\Debug\net9.0\Player1.runtimeconfig.json
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\bin\Debug\net9.0\Player1.dll
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\bin\Debug\net9.0\Player1.pdb
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.AssemblyInfoInputs.cache
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.AssemblyInfo.cs
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.csproj.CoreCompileInputs.cache
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.sourcelink.json
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.dll
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\refint\Player1.dll
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.pdb
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\Player1.genruntimeconfig.cache
+C:\Users\Pâmela\LucasAlves\Implementa-o-de-Batalha-Naval-em-Rede-1\Player1\obj\Debug\net9.0\ref\Player1.dll
